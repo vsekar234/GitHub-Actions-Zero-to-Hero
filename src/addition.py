@@ -4,5 +4,5 @@ def add(a, b, c):
     return a + b + c
 
 def test_add():
-    assert add(1, 2, 4) == 3
-    assert add(1, -1, 5) == 0
+    assert add(1, 2, 4) == 7
+    assert add(1, -1, 5) == 5
